@@ -1,0 +1,10 @@
+# Rahasia dan data runtime: jangan pernah di-commit
+.env
+*.env
+charts/
+__pycache__/
+*.pyc
+xauusd_cfd_state.json
+xauusd_cfd_capital.json
+xauusd_ichi_capital.json
+*.json.tmp
